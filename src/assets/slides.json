@@ -1,0 +1,92 @@
+[
+  {
+    "title": "The Problem 🚗💦",
+    "icon": "AlertTriangle",
+    "content": [
+      "Traditional car washing is TIME-CONSUMING and INCONVENIENT.",
+      "Busy professionals struggle to maintain their vehicles.",
+      "Existing solutions? OUTDATED and INEFFICIENT."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-orange-100 to-orange-200"
+  },
+  {
+    "title": "Our Revolutionary Solution 🚀",
+    "icon": "Wrench",
+    "content": [
+      "Introducing SPLAASH: Premium Doorstep Car Wash.",
+      "We bring professional car cleaning DIRECTLY to your doorstep.",
+      "Get SPLAASHed! While You Unwind at Home."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-purple-100 to-purple-200"
+  },
+  {
+    "title": "What Makes Us Unique ⭐",
+    "icon": "Sparkles",
+    "content": [
+      "🚗 On-demand, doorstep car wash service.",
+      "💧 Eco-friendly: Uses 60% less water than traditional washes.",
+      "📱 Seamless digital booking & payment."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-green-100 to-green-200"
+  },
+  {
+    "title": "Market & Target Audience 🎯",
+    "icon": "BarChart3",
+    "content": [
+      "Car care market size: $X billion.",
+      "Targeting urban professionals & car owners who value convenience.",
+      "Reaching customers via digital ads, partnerships & referral programs."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-yellow-100 to-yellow-200"
+  },
+  {
+    "title": "Revenue Model 💰",
+    "icon": "DollarSign",
+    "content": [
+      "💳 Subscription plans for regular washes.",
+      "💵 One-time on-demand services.",
+      "📢 Potential for partnerships & ad-based revenue."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-blue-100 to-blue-200"
+  },
+  {
+    "title": "Competition Landscape 🔍",
+    "icon": "Search",
+    "content": [
+      "Traditional car washes: Fixed locations, time-consuming.",
+      "Mobile washers: Inconsistent quality, lack of reliability.",
+      "Splaash's Unique Positioning: On-demand, premium, eco-friendly."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-indigo-100 to-indigo-200"
+  },
+  {
+    "title": "Growth & Milestones 🚀",
+    "icon": "TrendingUp",
+    "content": [
+      "📈 Current Metrics: X active users, X% monthly growth.",
+      "🚀 Milestones: MVP launch, early adopters, strategic partnerships.",
+      "🎯 Future: Expand to X cities, introduce AI-powered booking."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-red-100 to-red-200"
+  },
+  {
+    "title": "Funding & Growth Strategy 💸",
+    "icon": "Briefcase",
+    "content": [
+      "💰 Raised $X from early investors.",
+      "📊 Seeking $X to scale operations & marketing.",
+      "🔥 Funds allocation: 40% tech, 30% expansion, 30% customer acquisition."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-indigo-100 to-indigo-200"
+  },
+  {
+    "title": "Our Dream Team 👥",
+    "icon": "Users",
+    "content": [
+      "🚀 [Founder Name]: X years in automotive & service industry.",
+      "💡 [Co-founder Name]: X years in tech & startup scaling.",
+      "🔥 Passionate team committed to revolutionizing car care."
+    ],
+    "backgroundColor": "bg-gradient-to-r from-blue-100 to-blue-200"
+  }
+]
