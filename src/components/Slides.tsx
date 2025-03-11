@@ -73,9 +73,9 @@ const Slides: React.FC = () => {
       <div
         className={`relative min-w-[70vw] min-h-[70vh] rounded-3xl shadow-2xl p-10 flex flex-col items-center ${backgroundClass}`}
       >
-        {/* <div className="mb-4">
+        <div className="mb-4">
           <IconComponent className="w-24 h-24 text-white" />
-        </div> */}
+        </div>
         <h2 className="text-[30pt] font-bold text-[#333] mb-2 text-center">
           {currentSlideData.title}
         </h2>
